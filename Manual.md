@@ -1,3 +1,13 @@
+<p align="center">
+  <span>Español</span> |
+  <a href="https://github.com/frodcab/HomeBot/blob/master/Manual.en.md">English</a> |
+  <a href="https://github.com/frodcab/HomeBot/blob/master/Manual.fr.md">Français</a>
+</p>
+
+---
+
+
+
 Manual de contrucción del bot
 #
 
